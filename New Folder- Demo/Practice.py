@@ -1,1 +1,3 @@
-print("hello world")
+
+us
+nil is genio
